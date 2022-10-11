@@ -1,1 +1,2 @@
-Using python code control raspberry pi GPIO Pin.
+Python program to blink led in raspberry pi
+
